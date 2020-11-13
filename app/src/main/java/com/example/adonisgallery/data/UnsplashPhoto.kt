@@ -1,4 +1,4 @@
-package com.example.adonisgallery
+package com.example.adonisgallery.data
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize
