@@ -16,4 +16,4 @@ App that can search the Unsplash API for images and display them
  - Dagger Hilt.
 
 
-![](/images/wireframe.png)
+![](/images/app_1.jpg)
