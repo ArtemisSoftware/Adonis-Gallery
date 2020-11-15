@@ -17,6 +17,9 @@ App that can search the Unsplash API for images and display them
 
 ## App preview:
 
-<img src="images/Adonis_Gallery_1.jpg" width="50%" height="50%">
-<img src="images/Adonis_Gallery_2.jpg" width="50%" height="50%">
-<img src="images/Adonis_Gallery_3.jpg" width="50%" height="50%">
+
+
+Image #1            |  Image #2           |  Image #3
+:-------------------------:|:----------------------------:|:-------------------------:
+<img src="images/Adonis_Gallery_1.jpg">    |  <img src="images/Adonis_Gallery_2.jpg"> | <img src="images/Adonis_Gallery_3.jpg">
+
