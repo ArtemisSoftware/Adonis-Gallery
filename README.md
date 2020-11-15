@@ -15,5 +15,8 @@ App that can search the Unsplash API for images and display them
  - View Binding 
  - Dagger Hilt.
 
-<img src="images/Screenshot_20201115-160424_Adonis_Gallery[1].jpg" width="50%" height="50%">
+## App preview:
 
+<img src="images/Adonis_Gallery_1.jpg" width="50%" height="50%">
+<img src="images/Adonis_Gallery_2.jpg" width="50%" height="50%">
+<img src="images/Adonis_Gallery_3.jpg" width="50%" height="50%">
