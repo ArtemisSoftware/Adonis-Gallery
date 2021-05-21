@@ -1,7 +1,5 @@
 # Adonis-Gallery
 
-## The Brief:
-
 App that can search the Unsplash API for images and display them
 
 ## Libraries and architecture
